@@ -1,0 +1,10 @@
+openai
+pandas
+numpy
+matplotlib
+scikit-learn
+umap-learn
+geopandas
+geodatasets
+shapely
+openpyxl
