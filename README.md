@@ -22,8 +22,6 @@ The project contains several scripts:
 Title | Motif 1 | Motif 2 | Motif 3 | ...
 ```
 
-## Geodata file
-
 The script uses a geodata Excel file to visualize tale locations on a map. This file links each tale title to its geographic information.
 
 The geodata file should contain at least these columns:
